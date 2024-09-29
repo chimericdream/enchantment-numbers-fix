@@ -1,4 +1,4 @@
-package com.chimericdream.enchantmentnumbersfix;
+package com.chimericdream.enchantnumfix;
 
 import java.util.TreeMap;
 
